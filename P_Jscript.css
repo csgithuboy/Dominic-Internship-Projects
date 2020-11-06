@@ -1,0 +1,131 @@
+.label{
+    display: inline-block;
+    width: 305px;
+    text-align: right;
+  }
+    input[type=text]{
+    width: 34%;
+    padding: 12px 20px;
+    margin: 8px 0 0 330px;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 34px;
+  }
+  input[type=number]{
+    width: 34%;
+    padding: 12px 20px;
+    margin: 8px 0 0 330px;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 34px;
+  }
+        .fdiv{
+          background-color: rgb(208, 230, 176,10);
+          line-height: 5;
+        }
+        .sdiv{
+          background-color: rgb(0, 34, 34,10);
+          line-height: 3;
+        }
+        .tdiv{
+          background-color: RGB(255, 140, 0);
+          line-height: 3;
+        }
+        .frdiv{
+          background-color: rgb(0, 0, 34,10);
+          line-height: 3;
+         
+        }
+        .fidiv{
+          background-color: rgb(26, 195, 216 ,56);
+          line-height: 3;
+         
+        }
+  
+        .sidiv{
+          background-color: rgb(161, 7, 109  ,88);
+          line-height: 3;
+         
+        }
+  
+        .sediv{
+          background-color: rgb(186, 252, 3  ,1);
+          line-height: 3;
+         
+        }
+  
+        .eidiv{
+          background-color: rgba(10, 212, 13, 0.565);
+          line-height: 3;
+         
+        }
+  
+        .nidiv{
+          background-color: rgba(188, 212, 10, 0.765);
+          line-height: 3;
+         
+        }
+
+        .tediv{
+          background-color: rgba(167, 127, 36, 0.765);
+          line-height: 3;
+         
+        }
+  
+        .elediv{
+          background-color: rgb(44, 10, 212);
+          line-height: 3;
+         
+        }
+        #p1{
+            font-weight: bolder;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+            font-size: 35px;
+            color: rgba(252, 70, 107, 29);
+        }
+        #p2{
+            font-weight: bolder;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+            font-size: 24px;
+            color: rgba(252, 288, 107, 29);
+        }
+        #demo{
+          color: rgb(219, 27, 27);
+          text-align: center;
+        }
+        #oddeven{
+          margin-left: 445px;
+        }
+        #truncate{
+          text-align: center;
+          color: black;
+        }
+        #findlarge{
+          text-align: center;
+          color: rgba(235, 6, 189, 0.793);
+          font-weight: bolder;
+        }
+  
+        #alphabetd{
+          text-align: center;
+          color: rgba(6, 82, 235, 0.682);
+          font-weight: bolder;
+        }
+  
+        #patternd{
+          text-align: center;
+          color: rgba(144, 44, 82, 0.682);
+          font-weight: bolder;
+        }
+  
+        #freqd{
+          text-align: center;
+          color: rgba(97, 77, 68, 0.834);
+          font-weight: bolder;
+        }
