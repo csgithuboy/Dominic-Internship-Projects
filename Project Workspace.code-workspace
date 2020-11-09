@@ -9,5 +9,8 @@
 		{
 			"path": "..\\Tourism Project"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MEAN-Stack-FSD"
+	}
 }
